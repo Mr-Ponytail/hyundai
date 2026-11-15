@@ -29,10 +29,8 @@ object MoodriveColors {
     val Selected = Color(0xFF34353B)
 
     val TextPrimary = Color(0xFFFFFFFF)
-    val TextSecondary = Color(0xFFE6E6E8)
     val TextTertiary = Color(0xFFA9AAB0)
     val TextMuted = Color(0xFF8A8B91)
-    val Brand = Color(0xFF5B5D64)
 
     /** 홈 배경 세로 그라데이션 (Pleos 가이드 반영 시안) */
     val BackgroundTop = Color(0xFF16181F)
@@ -55,8 +53,6 @@ object MoodriveColors {
     val ParkedFg = Positive
     val DrivingBg = Color(0x800082FF)
     val DrivingFg = Color(0xFFFFFFFF)
-    /** 안내 모드 등 주의 표시 */
-    val Warn = Color(0xFFFBBF24)
 }
 
 /**
