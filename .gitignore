@@ -1,0 +1,22 @@
+# Gradle / Kotlin
+.gradle/
+.kotlin/
+build/
+*/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local config (SDK 경로, 키 등은 각자 로컬에)
+local.properties
+secrets.properties
+keystore.properties
+*.jks
+*.keystore
+
+# OS
+.DS_Store

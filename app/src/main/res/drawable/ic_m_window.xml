@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Material Icons Rounded.Window -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M11,11 V3 H5 C3.9,3 3,3.9 3,5 v6 H11 Z" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M13,11 h8 V5 c0,-1.1 -0.9,-2 -2,-2 h-6 V11 Z" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M11,13 H3 v6 c0,1.1 0.9,2 2,2 h6 V13 Z" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M13,13 v8 h6 c1.1,0 2,-0.9 2,-2 v-6 H13 Z" />
+</vector>

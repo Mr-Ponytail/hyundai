@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 디버그 빌드에만 들어가는 화면. 배포 빌드에는 포함되지 않는다 -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity
+            android:name=".DebugActivity"
+            android:exported="false" />
+    </application>
+</manifest>
